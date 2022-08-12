@@ -4,7 +4,7 @@ I've taken bootcamp courses in solidity and have been teaching myself smart cont
 
 - 📫 How to reach me
 -   Phone: 07708010294
--   Email: adil10743@gmail.co.uk
+-   Email: adil10743@gmail.com
 
 <!---
 adil10743/adil10743 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
