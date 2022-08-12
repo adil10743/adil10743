@@ -1,4 +1,4 @@
-- 👋 Hi, I’m adil and I'm currently based in London
+- 👋 Hi, I’m adil and I'm currently based in London.
 My main interest right now are in the fields of blockchain and smart contracts.
 I've taken bootcamp courses in solidity and have been teaching myself smart contract programming for the Elrond Network (Rust) during my spare time.
 
